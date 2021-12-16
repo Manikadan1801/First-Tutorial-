@@ -408,5 +408,9 @@ form input{
         text-align: center;
         width: 95%;
     }
+    .footer-logo {
+    width: 200px;
+    margin: auto;
+    }
 
 }
