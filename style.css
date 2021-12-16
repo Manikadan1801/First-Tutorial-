@@ -289,7 +289,7 @@ form input{
     flex-basis: 40%;
 }
 
-@media only screen and (max-width:770px) {
+@media only screen and (max-width:990px) {
     #myDIV{
         display: block;
     }
